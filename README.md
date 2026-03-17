@@ -22,7 +22,7 @@ Java Backend Developer | Spring Boot | Microservices | AWS
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,jenkins,react,js,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring boot,restapi,aws,docker,kubernetes,jenkins,react,js,mysql,html,css" />
 </p>
 
 ---
